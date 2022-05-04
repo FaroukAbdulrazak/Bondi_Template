@@ -1,2 +1,5 @@
-# Bondi_Template
-Bondi Template using Bootstrap V.5
+# Comit_Template
+Comit Template using only HTML5 &amp; CSS3
+
+# Live Demo:
+https://faroukabdulrazak.github.io/Bondi_Template/
